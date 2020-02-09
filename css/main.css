@@ -1,0 +1,27 @@
+@charset "utf-8";
+/* Assignment 1 | COMP1073 Client-Side JavaScript */
+
+body {
+    width: 550px;
+    margin: 0 auto;
+}
+#buttons {
+    width: 500px;
+    margin: 0 auto;
+}
+
+#buttons button {
+    margin-top: 2%;
+    margin-right: 11px;
+}
+#buttons button:hover {
+    color: white;
+    background-color: darksalmon;
+}
+
+.Surprised {
+    background-color: darksalmon;
+    padding: 10px;
+    margin-top: 3%;
+    margin-left: 350px;
+}
